@@ -1,0 +1,26 @@
+{
+  "name": "openshift-do101",
+  "version": "1.0.0",
+  "description": "OpenShift DO101 demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devopsmanagereu/openshift-do101.git"
+  },
+  "keywords": [
+    "openshift",
+    "do101"
+  ],
+  "author": "Stanislav Novotny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devopsmanagereu/openshift-do101/issues"
+  },
+  "homepage": "https://github.com/devopsmanagereu/openshift-do101#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
